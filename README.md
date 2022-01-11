@@ -1,1 +1,1 @@
-# kmong_clone
+# kmong_clone - 2021년 제작 (퍼블리싱 연습)
